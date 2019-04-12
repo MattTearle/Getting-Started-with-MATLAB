@@ -1,4 +1,3 @@
-# Getting-Started-with-MATLAB
 Example MATLAB scripts for the solar panel example shown in the "Getting Started with MATLAB" video
 
 Data is in the spreadsheet SolarArrayProduction.xlsx. This consists of recorded electricity production from two MathWorks solar panel arrays, recorded every 15 minutes for the month of June, 2018.
